@@ -11,3 +11,4 @@ Start and goal always reachable
 
 3. Performance Graphs
    Bar charts comparing nodes expanded and runtime are automatically generated.
+<img width="1484" height="939" alt="Screenshot 2025-10-26 084517" src="https://github.com/user-attachments/assets/e2fce916-a14b-4422-8bf1-03b7c52376f5" />
